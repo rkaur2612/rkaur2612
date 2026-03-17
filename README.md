@@ -1,4 +1,3 @@
-<!--
 # 👋 Hi, I'm Ramandeep Kaur
 
 🎯 AI/ML Engineer | LLM Systems | AWS | MLOps
@@ -104,5 +103,3 @@ Multimodal fashion recommender system
 ---
 
 ⭐ *Open to AI/ML Engineer opportunities*
-
--->
