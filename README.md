@@ -91,8 +91,8 @@ Multimodal fashion recommender system
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: *[Add your link]*
-* 📧 Email: *[Add your email]*
+* 💼 LinkedIn: *www.linkedin.com/in/ramandeepkaur26*
+* 📧 Email: *rkaur2612@gmail.com*
 
 ---
 
@@ -102,4 +102,4 @@ Multimodal fashion recommender system
 
 ---
 
-⭐ *Open to AI/ML Engineer opportunities*
+⭐ *Open to AI/ML and Software Engineer opportunities*
