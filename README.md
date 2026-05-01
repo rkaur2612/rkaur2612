@@ -2,7 +2,7 @@
 
 🎯 AI/ML Engineer | LLM Systems | AWS | MLOps
 
-I build **production-grade AI systems**,  — focused on **LLMs, RAG pipelines, and real-world deployment**.
+I build **production-grade AI systems**,  — focused on **LLMs, RAG pipelines, Agentic workflows and real-world deployment**.
 
 ---
 
@@ -17,7 +17,7 @@ I build **production-grade AI systems**,  — focused on **LLMs, RAG pipelines, 
 
 ## 🧠 What I Work On
 
-* LLM Pipelines (RAG, LangChain, Gemini)
+* LLM Pipelines (RAG, LangChain, LangGraph, Agents)
 * Prompt Engineering + Guardrails
 * AI in Healthcare (Clinical Summarization, Secure Access)
 * Anomaly Detection Systems (IoT, DNS traffic)
@@ -30,7 +30,7 @@ I build **production-grade AI systems**,  — focused on **LLMs, RAG pipelines, 
 ### AI / ML
 
 Python | PyTorch | TensorFlow | Scikit-learn | Hugging Face
-LLMs | RAG | LangChain | NLP | NER | Time Series
+LLMs | RAG | LangChain | LangGraph | Agents | NLP | NER | Time Series
 
 ### Backend & Cloud
 
@@ -44,7 +44,7 @@ PostgreSQL | MongoDB | Pandas | NumPy
 
 ### Tools
 
-Git | Postman | Power BI | Tableau | JIRA
+Git | VsCode | Langsmith | Postman |  JIRA
 
 ---
 
@@ -52,7 +52,7 @@ Git | Postman | Power BI | Tableau | JIRA
 
 ### 🔹 Machine Learning Engineer — Saayam For All
 
-* Built **production LLM pipeline** converting unstructured chat → structured JSON
+* Built **production Langchain pipeline** converting unstructured chat → structured JSON
 * Achieved **100% schema compliance** using guardrails + Pydantic
 * Reduced cold start latency via **Dockerized AWS Lambda deployment**
 * Set up **CI/CD pipelines for zero-downtime releases**
