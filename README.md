@@ -98,7 +98,7 @@ Multimodal fashion recommender system
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rkaur2612\&show_icons=true\&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=rkaur2612&show_icons=true&theme=default)
 
 ---
 
